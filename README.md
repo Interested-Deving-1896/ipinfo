@@ -56,7 +56,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 <!-- AI:start:contributors -->
 | Contributor | Commits |
 |---|---|
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 8 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 9 |
 | [@niklasberglund](https://github.com/niklasberglund) | 6 |
 | [@mariogrip](https://github.com/mariogrip) | 1 |
 <!-- AI:end:contributors -->
@@ -93,5 +93,5 @@ for the underlying accessibility reference.
 ## License
 
 <!-- AI:start:license -->
-[MIT](https://github.com/Interested-Deving-1896/ipinfo/blob/master/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- License not detected — add a LICENSE file to this repo. -->
 <!-- AI:end:license -->
